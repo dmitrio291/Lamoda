@@ -1,4 +1,4 @@
-# Lomoda
+# Lamoda
 The site has implemented the functionality:
 1) Adding a good to the shopping cart
 2) Removing goods from the shopping cart
